@@ -23,6 +23,8 @@ This is a Pizza Delivery Web Application that provides a user-friendly interface
 - Email API functionality for sending the corresponding bill to the user automatically on confirming the order.
 - Checkout Process and Logout functionality for registered users to end their session.
 
+###### Some glimpses of the website
+
 ![home page](https://user-images.githubusercontent.com/60270105/225512864-e0901dcb-5437-49d9-ac17-c7644c6e7243.png)
 
 
